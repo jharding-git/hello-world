@@ -8,3 +8,5 @@ trying editing and commiting this README file in GitHub via browser.
 
 Here's a change for Push a Branch to GitHub part of the tutorial
 SECOND ATTEMPT TO PUSH THESE CHANGES TO THE README ON GITHUB IN UPDATE-README
+
+THIS IS MY THIRD CHANGE. 	
